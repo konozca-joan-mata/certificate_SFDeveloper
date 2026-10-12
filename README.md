@@ -1,6 +1,6 @@
 # 👨‍💻 Salesforce Developer Reference Guide
 
-### Creado por: Joan Mata & Konozca
+### Creado por: Joan Mata
 
 Esta es una **guía técnica interactiva** diseñada para desarrolladores de Salesforce que preparan la certificación **Platform Developer I (PDI)** o que necesitan una referencia rápida de arquitectura y código.
 
@@ -39,4 +39,4 @@ Esta guía ha sido construida basándose en el Trailmix de Trailhead:
 [Prepare for your Salesforce Platform Developer I Credential](https://trailhead.salesforce.com/es-MX/users/strailhead/trailmixes/prepare-for-your-salesforce-platform-developer-i-credential)
 
 ---
-*© 2026 Konozca & Joan Mata - Todos los derechos reservados.*
+*© 2026 Joan Mata*
